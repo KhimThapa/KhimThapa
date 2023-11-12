@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KhimThapa
+- 👋 Hi, I’m Khim
 - 👀 I’m interested in Data Analaysis.
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on projects.
